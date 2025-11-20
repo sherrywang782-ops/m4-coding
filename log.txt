@@ -1,12 +1,5 @@
-1f39dd7 (HEAD -> main) Task 1.1
-c9b3c78 (origin/main, origin/HEAD) Initial commit
-
-5811611 (HEAD -> main) Removed a play parameter from getAmount
-c34fb8a Task 1.2
-1f39dd7 Task 1.1
-c9b3c78 (origin/main, origin/HEAD) Initial commit
-
-42ce18e (HEAD -> main) Task 2.1
+e34b80b (HEAD -> main) Task 2.2
+42ce18e Task 2.1
 5811611 Removed a play parameter from getAmount
 c34fb8a Task 1.2
 1f39dd7 Task 1.1
